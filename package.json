@@ -1,0 +1,36 @@
+{
+  "name": "@yamanoku/stylelint-config",
+  "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yamanoku/stylelint-config.git"
+  },
+  "description": "@yamanoku stylelint config",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "pretest": "npm run lint",
+    "release": "npmpub"
+  },
+  "keywords": [
+    "stylelint"
+  ],
+  "author": "yamanoku <0910yama@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "eslint-config-stylelint": "^8.0.0",
+    "npmpub": "^3.1.0",
+    "stylelint": "^8.2.0"
+  },
+  "eslintConfig": {
+    "extends": [
+      "stylelint"
+    ]
+  }
+}
