@@ -14,7 +14,7 @@
     "index.js"
   ],
   "scripts": {
-    "test": "lint index.js",
+    "test": "npm run lint index.js",
     "release": "npmpub"
   },
   "keywords": [
