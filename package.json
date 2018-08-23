@@ -23,10 +23,10 @@
   "author": "yamanoku <0910yama@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^5.4.0",
-    "eslint-config-stylelint": "^8.0.0",
-    "npmpub": "^4.1.0",
-    "stylelint": "^9.5.0"
+    "eslint": "5.4.0",
+    "eslint-config-stylelint": "8.1.0",
+    "npmpub": "4.1.0",
+    "stylelint": "9.5.0"
   },
   "eslintConfig": {
     "extends": [
