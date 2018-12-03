@@ -24,7 +24,7 @@
   "license": "MIT",
   "devDependencies": {
     "eslint": "5.9.0",
-    "eslint-config-stylelint": "10.0.0",
+    "eslint-config-stylelint": "11.0.0",
     "np": "3.0.4",
     "stylelint": "9.9.0"
   },
