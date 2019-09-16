@@ -26,7 +26,7 @@
     "eslint": "6.3.0",
     "eslint-config-stylelint": "11.1.0",
     "np": "5.1.0",
-    "stylelint": "10.1.0"
+    "stylelint": "11.0.0"
   },
   "eslintConfig": {
     "extends": [
