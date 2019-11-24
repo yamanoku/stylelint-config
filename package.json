@@ -23,7 +23,7 @@
   "author": "yamanoku <0910yama@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "6.6.0",
+    "eslint": "6.7.0",
     "eslint-config-stylelint": "11.1.0",
     "np": "5.1.3",
     "stylelint": "12.0.0"
