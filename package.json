@@ -25,7 +25,7 @@
   "devDependencies": {
     "eslint": "7.12.1",
     "eslint-config-stylelint": "13.0.0",
-    "np": "7.0.0",
+    "np": "7.1.0",
     "stylelint": "13.7.2"
   },
   "eslintConfig": {
